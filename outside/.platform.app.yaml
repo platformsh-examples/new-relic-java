@@ -12,9 +12,9 @@ disk: 1024
 
 variables:
     env:
-        NEW_RELIC_LICENSE_KEY: eu01xx8929a5d9bae236c5630a484e361747NRAL
-        NEW_RELIC_APP_NAME: My Application 2
         NEW_RELIC_URL: https://download.newrelic.com/newrelic/java-agent/newrelic-agent/current/newrelic-java.zip
+        NEW_RELIC_LICENSE_KEY: <LICENSE_KEY>
+        NEW_RELIC_APP_NAME: <NAME_APPLICATION>
 
 # The hooks executed at various points in the lifecycle of the application.
 hooks:

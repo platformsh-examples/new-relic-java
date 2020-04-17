@@ -23,7 +23,7 @@ mounts:
 
 variables:
     env:
-        NEW_RELIC_LICENSE_KEY: <LICENSE_NAME>
+        NEW_RELIC_LICENSE_KEY: <LICENSE_KEY>
         NEW_RELIC_APP_NAME: <NAME_APPLICATION>
 
 # The relationships of the application with services or other applications.
